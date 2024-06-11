@@ -91,5 +91,22 @@
 ![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/d8fe205b-5756-4a57-94c8-563dacf64e01)
 ![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/c2db63a6-8c68-435d-b0fa-861adda399e8)
 
+## 😠 트러블 슈팅
+
+`믹사모 애니메이션 문제`
+
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/379c4b37-e787-44c6-a917-c690b495ce44)
+
+`문 상호작용 문제`
+
+https://github.com/seungdo1234/BlackOut_A9/assets/86179438/0a685222-a99e-43f6-ae77-70f7ddb4756d
+
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/0f683988-9874-4303-bc68-99d1f200b7d0)
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/37f0d7d3-f414-4e9c-bfd1-0eac0d90a226)
+
+`프롬프트 문구`
+
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/c64a9e36-a294-4f56-966d-308eb10a8eac)
+
 
 
