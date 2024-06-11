@@ -32,7 +32,12 @@
 
 
 ---
+## :movie_camera: 플레이 영상
+[![Video Label](http://img.youtube.com/vi/IMa_amqEon8/0.jpg)](https://youtu.be/IMa_amqEon8) 
 
+**클릭 시 이동**
+
+---
 
 ## :page_with_curl: 작업 내용
 
@@ -67,8 +72,24 @@
   
 ![image](https://github.com/ckd0dn/BlackOut/assets/74403510/483efa05-c5ad-4303-bcd7-acd98ea9b48d)
 
+---
 
+## 📋 맵 설계
 
-## :movie_camera: 플레이 영상
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/241c80ef-b757-4e8e-be71-e0f81a87fb56)
 
 ---
+
+## 📋 와이어프레임
+
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/d3f56588-9616-4305-87f7-51231a666abc)
+
+---
+
+## 📝 클래스 구조도
+
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/d8fe205b-5756-4a57-94c8-563dacf64e01)
+![image](https://github.com/seungdo1234/BlackOut_A9/assets/86179438/c2db63a6-8c68-435d-b0fa-861adda399e8)
+
+
+
